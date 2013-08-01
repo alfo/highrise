@@ -1,4 +1,4 @@
-# encoding: binary
+# encoding: utf-8
 # RFC822 Email Address Regex
 # --------------------------
 #
